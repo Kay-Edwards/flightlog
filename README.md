@@ -18,6 +18,7 @@ This is the project proposal for the flight log app
 * user authorization
 * maintain a mvc model
 * crud functionalities
+* Implementing react hooks 
 
 ## Supporting Research
 >
