@@ -23,3 +23,4 @@ This is the project proposal for the flight log app
 >
 * https://www.managerup.com/negative-effects-of-flying/
 * https://flightlog.io/
+* https://www.loginradius.com/blog/engineering/guest-post/nodejs-authentication-guide/
